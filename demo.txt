@@ -1,0 +1,3 @@
+Hello C0224G1
+git init: khởi tạo local repository
+git add <tên-file>:
